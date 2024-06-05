@@ -1,0 +1,761 @@
+fileFormatVersion: 2
+guid: 1887980cf8794af4180f2b881d4b022a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: burning-fire-collection-yellow-orange-flame-isolated-black-background-vector-cartoon-set-blaze-bonfire-torch-candle-animation-sprite-sheet-with-flame-burn_107791-9192_0
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 251
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae08029afe4cd304d8d84acfa7df1461
+      internalID: -2097036242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burning-fire-collection-yellow-orange-flame-isolated-black-background-vector-cartoon-set-blaze-bonfire-torch-candle-animation-sprite-sheet-with-flame-burn_107791-9192_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 251
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2bc70d1331dd24faaaeea80e7b8e81
+      internalID: 1545462023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burning-fire-collection-yellow-orange-flame-isolated-black-background-vector-cartoon-set-blaze-bonfire-torch-candle-animation-sprite-sheet-with-flame-burn_107791-9192_2
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 251
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ad4d1e82d8e9642b269eb40a01c6d1
+      internalID: -1615852798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burning-fire-collection-yellow-orange-flame-isolated-black-background-vector-cartoon-set-blaze-bonfire-torch-candle-animation-sprite-sheet-with-flame-burn_107791-9192_3
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 177
+        width: 39
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77dc6af82d9d9454f897a7e9da1bb994
+      internalID: -1650801489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burning-fire-collection-yellow-orange-flame-isolated-black-background-vector-cartoon-set-blaze-bonfire-torch-candle-animation-sprite-sheet-with-flame-burn_107791-9192_4
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 253
+        width: 50
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f96874e1fead44481faed8bfa0457a
+      internalID: 1057907155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burning-fire-collection-yellow-orange-flame-isolated-black-background-vector-cartoon-set-blaze-bonfire-torch-candle-animation-sprite-sheet-with-flame-burn_107791-9192_5
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 248
+        width: 49
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66cb63d56667f334897ca327e90d6171
+      internalID: -234248466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burning-fire-collection-yellow-orange-flame-isolated-black-background-vector-cartoon-set-blaze-bonfire-torch-candle-animation-sprite-sheet-with-flame-burn_107791-9192_6
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 248
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af090b761b409984ab1394a505dd22a7
+      internalID: -45994071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burning-fire-collection-yellow-orange-flame-isolated-black-background-vector-cartoon-set-blaze-bonfire-torch-candle-animation-sprite-sheet-with-flame-burn_107791-9192_7
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 246
+        width: 55
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe8ec0b57231334ea99c5fbefac5031
+      internalID: -108614824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burning-fire-collection-yellow-orange-flame-isolated-black-background-vector-cartoon-set-blaze-bonfire-torch-candle-animation-sprite-sheet-with-flame-burn_107791-9192_8
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 246
+        width: 50
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d98a193bc7d45564e95af6a960e7d824
+      internalID: -446755499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burning-fire-collection-yellow-orange-flame-isolated-black-background-vector-cartoon-set-blaze-bonfire-torch-candle-animation-sprite-sheet-with-flame-burn_107791-9192_9
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 244
+        width: 49
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd32a6596ac5c44fb987d51b2e8ae3f
+      internalID: -2109601909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burning-fire-collection-yellow-orange-flame-isolated-black-background-vector-cartoon-set-blaze-bonfire-torch-candle-animation-sprite-sheet-with-flame-burn_107791-9192_10
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 178
+        width: 42
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9341246d79d05594a8d1e3c304d7db51
+      internalID: 2129486720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burning-fire-collection-yellow-orange-flame-isolated-black-background-vector-cartoon-set-blaze-bonfire-torch-candle-animation-sprite-sheet-with-flame-burn_107791-9192_11
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 179
+        width: 36
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a8a0c4d1c5fc44a9fa28a2fca76376
+      internalID: 1135328692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burning-fire-collection-yellow-orange-flame-isolated-black-background-vector-cartoon-set-blaze-bonfire-torch-candle-animation-sprite-sheet-with-flame-burn_107791-9192_12
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 237
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 550ffe8c04ff5594cb8609893ef0f06d
+      internalID: -1853467250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burning-fire-collection-yellow-orange-flame-isolated-black-background-vector-cartoon-set-blaze-bonfire-torch-candle-animation-sprite-sheet-with-flame-burn_107791-9192_13
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 179
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17dd9a41f308c3844a6ac011899e9ac3
+      internalID: 213960254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burning-fire-collection-yellow-orange-flame-isolated-black-background-vector-cartoon-set-blaze-bonfire-torch-candle-animation-sprite-sheet-with-flame-burn_107791-9192_14
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 180
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 572e6ac4a59feba4caf226be47410b0f
+      internalID: -1479257133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burning-fire-collection-yellow-orange-flame-isolated-black-background-vector-cartoon-set-blaze-bonfire-torch-candle-animation-sprite-sheet-with-flame-burn_107791-9192_15
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 181
+        width: 90
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d337184ba5c4a42b8dff60d65185cf
+      internalID: 478200118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burning-fire-collection-yellow-orange-flame-isolated-black-background-vector-cartoon-set-blaze-bonfire-torch-candle-animation-sprite-sheet-with-flame-burn_107791-9192_16
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 184
+        width: 119
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e5e58d4beeb604392190bd78291592
+      internalID: -1093306494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burning-fire-collection-yellow-orange-flame-isolated-black-background-vector-cartoon-set-blaze-bonfire-torch-candle-animation-sprite-sheet-with-flame-burn_107791-9192_17
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 106
+        width: 55
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e8cd3075ae8ca47a7a94856db7bec6
+      internalID: -732343425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burning-fire-collection-yellow-orange-flame-isolated-black-background-vector-cartoon-set-blaze-bonfire-torch-candle-animation-sprite-sheet-with-flame-burn_107791-9192_18
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 104
+        width: 47
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a86e8015367f5458d3180a5d4ba087
+      internalID: -101973318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burning-fire-collection-yellow-orange-flame-isolated-black-background-vector-cartoon-set-blaze-bonfire-torch-candle-animation-sprite-sheet-with-flame-burn_107791-9192_19
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 104
+        width: 45
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea4aa87d8effaf94f941d27da1d3ed29
+      internalID: 329831935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burning-fire-collection-yellow-orange-flame-isolated-black-background-vector-cartoon-set-blaze-bonfire-torch-candle-animation-sprite-sheet-with-flame-burn_107791-9192_20
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 104
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b743500b8bcfba44c8ca5c92a2fbe7af
+      internalID: 826912193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burning-fire-collection-yellow-orange-flame-isolated-black-background-vector-cartoon-set-blaze-bonfire-torch-candle-animation-sprite-sheet-with-flame-burn_107791-9192_21
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 106
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 093f22ddd1f12764194bb5fcab818944
+      internalID: -1059569630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burning-fire-collection-yellow-orange-flame-isolated-black-background-vector-cartoon-set-blaze-bonfire-torch-candle-animation-sprite-sheet-with-flame-burn_107791-9192_22
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 83
+        width: 46
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0742d04be1fa7344eb43a0db62da8ba4
+      internalID: -839179922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burning-fire-collection-yellow-orange-flame-isolated-black-background-vector-cartoon-set-blaze-bonfire-torch-candle-animation-sprite-sheet-with-flame-burn_107791-9192_23
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 98
+        width: 92
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87acc11ede20344c8a64b145669290b
+      internalID: -1698897132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burning-fire-collection-yellow-orange-flame-isolated-black-background-vector-cartoon-set-blaze-bonfire-torch-candle-animation-sprite-sheet-with-flame-burn_107791-9192_24
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 12
+        width: 78
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 484052ecb2e556940a60b0b01ce54b5a
+      internalID: 1654955990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burning-fire-collection-yellow-orange-flame-isolated-black-background-vector-cartoon-set-blaze-bonfire-torch-candle-animation-sprite-sheet-with-flame-burn_107791-9192_25
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 12
+        width: 112
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed54c5c80db18424d98f86fa2eda59cb
+      internalID: 732355397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burning-fire-collection-yellow-orange-flame-isolated-black-background-vector-cartoon-set-blaze-bonfire-torch-candle-animation-sprite-sheet-with-flame-burn_107791-9192_26
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 12
+        width: 65
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ebfb47d9be729442931ca8636b2294c
+      internalID: -1678833163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burning-fire-collection-yellow-orange-flame-isolated-black-background-vector-cartoon-set-blaze-bonfire-torch-candle-animation-sprite-sheet-with-flame-burn_107791-9192_27
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 16
+        width: 92
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1586fbce10500648ae26dce6d03ece8
+      internalID: -1290323962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burning-fire-collection-yellow-orange-flame-isolated-black-background-vector-cartoon-set-blaze-bonfire-torch-candle-animation-sprite-sheet-with-flame-burn_107791-9192_28
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 15
+        width: 175
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7903c9abc3a1de246b5f8912afaccdb4
+      internalID: -1767047165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      burning-fire-collection-yellow-orange-flame-isolated-black-background-vector-cartoon-set-blaze-bonfire-torch-candle-animation-sprite-sheet-with-flame-burn_107791-9192_28: -1767047165
+      burning-fire-collection-yellow-orange-flame-isolated-black-background-vector-cartoon-set-blaze-bonfire-torch-candle-animation-sprite-sheet-with-flame-burn_107791-9192_6: -45994071
+      burning-fire-collection-yellow-orange-flame-isolated-black-background-vector-cartoon-set-blaze-bonfire-torch-candle-animation-sprite-sheet-with-flame-burn_107791-9192_21: -1059569630
+      burning-fire-collection-yellow-orange-flame-isolated-black-background-vector-cartoon-set-blaze-bonfire-torch-candle-animation-sprite-sheet-with-flame-burn_107791-9192_8: -446755499
+      burning-fire-collection-yellow-orange-flame-isolated-black-background-vector-cartoon-set-blaze-bonfire-torch-candle-animation-sprite-sheet-with-flame-burn_107791-9192_26: -1678833163
+      burning-fire-collection-yellow-orange-flame-isolated-black-background-vector-cartoon-set-blaze-bonfire-torch-candle-animation-sprite-sheet-with-flame-burn_107791-9192_22: -839179922
+      burning-fire-collection-yellow-orange-flame-isolated-black-background-vector-cartoon-set-blaze-bonfire-torch-candle-animation-sprite-sheet-with-flame-burn_107791-9192_1: 1545462023
+      burning-fire-collection-yellow-orange-flame-isolated-black-background-vector-cartoon-set-blaze-bonfire-torch-candle-animation-sprite-sheet-with-flame-burn_107791-9192_18: -101973318
+      burning-fire-collection-yellow-orange-flame-isolated-black-background-vector-cartoon-set-blaze-bonfire-torch-candle-animation-sprite-sheet-with-flame-burn_107791-9192_2: -1615852798
+      burning-fire-collection-yellow-orange-flame-isolated-black-background-vector-cartoon-set-blaze-bonfire-torch-candle-animation-sprite-sheet-with-flame-burn_107791-9192_15: 478200118
+      burning-fire-collection-yellow-orange-flame-isolated-black-background-vector-cartoon-set-blaze-bonfire-torch-candle-animation-sprite-sheet-with-flame-burn_107791-9192_3: -1650801489
+      burning-fire-collection-yellow-orange-flame-isolated-black-background-vector-cartoon-set-blaze-bonfire-torch-candle-animation-sprite-sheet-with-flame-burn_107791-9192_12: -1853467250
+      burning-fire-collection-yellow-orange-flame-isolated-black-background-vector-cartoon-set-blaze-bonfire-torch-candle-animation-sprite-sheet-with-flame-burn_107791-9192_0: -2097036242
+      burning-fire-collection-yellow-orange-flame-isolated-black-background-vector-cartoon-set-blaze-bonfire-torch-candle-animation-sprite-sheet-with-flame-burn_107791-9192_11: 1135328692
+      burning-fire-collection-yellow-orange-flame-isolated-black-background-vector-cartoon-set-blaze-bonfire-torch-candle-animation-sprite-sheet-with-flame-burn_107791-9192_5: -234248466
+      burning-fire-collection-yellow-orange-flame-isolated-black-background-vector-cartoon-set-blaze-bonfire-torch-candle-animation-sprite-sheet-with-flame-burn_107791-9192_16: -1093306494
+      burning-fire-collection-yellow-orange-flame-isolated-black-background-vector-cartoon-set-blaze-bonfire-torch-candle-animation-sprite-sheet-with-flame-burn_107791-9192_13: 213960254
+      burning-fire-collection-yellow-orange-flame-isolated-black-background-vector-cartoon-set-blaze-bonfire-torch-candle-animation-sprite-sheet-with-flame-burn_107791-9192_17: -732343425
+      burning-fire-collection-yellow-orange-flame-isolated-black-background-vector-cartoon-set-blaze-bonfire-torch-candle-animation-sprite-sheet-with-flame-burn_107791-9192_25: 732355397
+      burning-fire-collection-yellow-orange-flame-isolated-black-background-vector-cartoon-set-blaze-bonfire-torch-candle-animation-sprite-sheet-with-flame-burn_107791-9192_14: -1479257133
+      burning-fire-collection-yellow-orange-flame-isolated-black-background-vector-cartoon-set-blaze-bonfire-torch-candle-animation-sprite-sheet-with-flame-burn_107791-9192_19: 329831935
+      burning-fire-collection-yellow-orange-flame-isolated-black-background-vector-cartoon-set-blaze-bonfire-torch-candle-animation-sprite-sheet-with-flame-burn_107791-9192_20: 826912193
+      burning-fire-collection-yellow-orange-flame-isolated-black-background-vector-cartoon-set-blaze-bonfire-torch-candle-animation-sprite-sheet-with-flame-burn_107791-9192_27: -1290323962
+      burning-fire-collection-yellow-orange-flame-isolated-black-background-vector-cartoon-set-blaze-bonfire-torch-candle-animation-sprite-sheet-with-flame-burn_107791-9192_4: 1057907155
+      burning-fire-collection-yellow-orange-flame-isolated-black-background-vector-cartoon-set-blaze-bonfire-torch-candle-animation-sprite-sheet-with-flame-burn_107791-9192_24: 1654955990
+      burning-fire-collection-yellow-orange-flame-isolated-black-background-vector-cartoon-set-blaze-bonfire-torch-candle-animation-sprite-sheet-with-flame-burn_107791-9192_10: 2129486720
+      burning-fire-collection-yellow-orange-flame-isolated-black-background-vector-cartoon-set-blaze-bonfire-torch-candle-animation-sprite-sheet-with-flame-burn_107791-9192_7: -108614824
+      burning-fire-collection-yellow-orange-flame-isolated-black-background-vector-cartoon-set-blaze-bonfire-torch-candle-animation-sprite-sheet-with-flame-burn_107791-9192_9: -2109601909
+      burning-fire-collection-yellow-orange-flame-isolated-black-background-vector-cartoon-set-blaze-bonfire-torch-candle-animation-sprite-sheet-with-flame-burn_107791-9192_23: -1698897132
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
